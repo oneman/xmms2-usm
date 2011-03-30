@@ -1,6 +1,6 @@
 XMMS2 Ubuntu Sound Menu
 
-copy xmms2.desktop to /usr/shared/applications
+copy xmms2.desktop to /usr/share/applications/
 copy xmms2_usm.py to ~/.config/xmms2/startup.d/
 
 
