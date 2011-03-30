@@ -1,0 +1,16 @@
+XMMS2 Ubuntu Sound Menu
+
+copy xmms2.desktop to /usr/shared/applications
+copy xmms2_usm.py to ~/.config/xmms2/startup.d/
+
+
+You need to quit xmms2, then logout and then back in 
+to get it to appear in the volume menu.
+
+-oneman
+
+Lazy:
+
+sudo cp xmms2.desktop /usr/share/applications/
+cp xmms2_usm.py ~/.config/xmms2/startup.d/
+

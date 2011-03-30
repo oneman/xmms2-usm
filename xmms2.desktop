@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=XMMS2
+Comment=X-platform Music Multiplexing System 2
+Categories=GNOME;Audio;Music;Player;AudioVideo;
+Exec=xmms2-launcher
+Icon=xmms2
+Terminal=false
+Type=Application
+MimeType=application/x-ogg;application/ogg;audio/x-vorbis+ogg;audio/x-scpls;audio/x-mp3;audio/x-mpeg;audio/mpeg;audio/x-mpegurl;audio/x-flac
